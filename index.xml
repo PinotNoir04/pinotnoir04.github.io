@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rishav&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://pinotnoir04.github.io/</link>
     <description>Recent content on Rishav&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Apr 2025 16:58:04 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pinotnoir04.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SoK &#39;25 Weeks 5 to 10</title>
-      <link>http://localhost:1313/posts/weeks5-10/</link>
+      <link>https://pinotnoir04.github.io/posts/weeks5-10/</link>
       <pubDate>Sun, 13 Apr 2025 16:58:04 +0530</pubDate>
-      <guid>http://localhost:1313/posts/weeks5-10/</guid>
-      <description>&lt;h1 id=&#34;sok-25-update-finishing-up&#34;&gt;SoK &amp;lsquo;25 Update: Finishing Up&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Kalaha.jpg&#34; alt=&#34;Kalah&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey everyone, It&amp;rsquo;s me again, back with the final update for this year&amp;rsquo;s Season of KDE. So, turns out things don&amp;rsquo;t really go as planned and it took me some extra time to bring it over the line.&lt;/p&gt;&#xA;&lt;p&gt;Since my last post, I wrote the tests for the Kalah game, the associated TUI, a greedy move selection and benchmarked Oware and Bohnenspiel. My mid-sem exams happened, in between, and delayed me by 2 weeks.&lt;/p&gt;</description>
+      <guid>https://pinotnoir04.github.io/posts/weeks5-10/</guid>
+      <description>&lt;h1 id=&#34;finishing-up&#34;&gt;Finishing Up&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Kalaha.jpg&#34; alt=&#34;Kalah&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey everyone, It&amp;rsquo;s me again, back with the final update for this year&amp;rsquo;s Season of KDE. So, turns out things don&amp;rsquo;t really go as planned and it took me some extra time to bring it over the line.&lt;/p&gt;&#xA;&lt;p&gt;Since my last post, I wrote the tests for the Kalah game, the associated TUI, a greedy move selection and benchmarked Oware and Bohnenspiel. My mid-sem exams happened, in between, and delayed me by 2 weeks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SoK &#39;25 Weeks 1 to 4</title>
-      <link>http://localhost:1313/posts/weeks1-4/</link>
+      <link>https://pinotnoir04.github.io/posts/weeks1-4/</link>
       <pubDate>Sat, 15 Feb 2025 03:29:23 +0530</pubDate>
-      <guid>http://localhost:1313/posts/weeks1-4/</guid>
+      <guid>https://pinotnoir04.github.io/posts/weeks1-4/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Rishav Ray Chaudhury, a third year Electrical Engineering undergrad from India. I have participated in Season of KDE this year. I am tasked with implementing a variant of the Mancala board game called Kalah under the guidance of João Gouveia and Benson Muite.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-i-chose-this-project&#34;&gt;Why I chose this project&lt;/h2&gt;&#xA;&lt;p&gt;As with any aspiring developer, I too started out with game development. A couple of my friends and I started to make games using C# and the Unity framework in my first year of University. The feeling of making games that my friends enjoyed was exhilarating to say the least. This was also around the same time that I learned about open-source software. Apparently, a lot of software that developers frequently use, was developed by a group of passionate programmers. I tried contributing to some repos but was unsuccessful, mainly because I was completely unfamiliar with the projects. That all changed when I started using Arch Linux. For Arch, the desktop environment that I chose was KDE Plasma. After using it for some time, I came to know about Season of KDE and finally took the initiative to start contributing to software that I frequently used. Of the projects, the game development project was the one that caught my eye and now here I am developing a game for it.&lt;/p&gt;</description>
     </item>
   </channel>
